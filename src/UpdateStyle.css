@@ -1,0 +1,27 @@
+.UpdateStyle{
+
+    height: 1000px;
+    width: 100%;
+    background-color: tomato;
+    justify-content: space-around;
+    display: flex;
+    align-items: baseline;
+    color: white;
+}
+
+#h1{
+
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    background-color: rgb(140, 0, 255);
+    width: 850px;
+    height: 840px;
+    margin-top:10%;
+    margin-left: 10%;
+    margin-right: 40%;
+    margin-bottom: 10%;
+   font-family: cursive;
+   text-align: center;
+   border-radius: 15px;}

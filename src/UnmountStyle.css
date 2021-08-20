@@ -1,0 +1,22 @@
+.UnmountStyle{
+
+    height: 800px;
+    width: 100%;
+    background-color: rgb(21, 70, 21);
+    justify-content: space-around;
+    display: flex;
+    align-items: baseline;
+    color: white;
+}
+
+.container1{
+    background-color: rgb(140, 0, 255);
+    width: 550px;
+    height: 430px;
+    margin-top:10%;
+    margin-left: 10%;
+    margin-right: 40%;
+    margin-bottom: 10%;
+   font-family: cursive;
+   text-align: center;
+   border-radius: 15px;}
